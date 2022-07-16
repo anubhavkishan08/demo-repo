@@ -1,2 +1,2 @@
 demo
-git demo file
+git demo project
